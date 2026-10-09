@@ -95,20 +95,12 @@ Maurício Humberto Vancine, Pavel Dodonov, Bruno Vilela, Luisa Diele-Viegas, Vic
 - Dificuldades com conceitos abstratos e interpretação de resultados
 - Impactos da COVID-19 e da IA no ensino
 - Formação de profissionais com fortes habilidades analíticas
+
+![](img/cover_oa.jpg){.absolute width=20% right=-50 top=360}
 :::
 
 ::: footer
 [Vancine et al. (2026)](https://revistas.ufrj.br/index.php/oa/article/view/64848)
-:::
-
-## Artigo da Mata Atlântica (2024)
-
-![](img/ms_ma.png){.absolute width=60% right=400 top=100}
-![](img/ms_af_graphic.png){.absolute width=40% right=550 top=360}
-![](img/ms_ma_fig.png){.absolute width=30% right=100 top=230}
-
-::: footer
-[Vancine et al. (2024)](https://doi.org/10.1016/j.biocon.2024.110499)
 :::
 
 ## IMPORTANTE!!!
